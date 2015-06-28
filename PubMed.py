@@ -2,7 +2,7 @@
 # -*- encoding: utf-8 -*-
 # Created on 2015-06-03 14:58:09
 # Project: pubmed
-# Auther: Lu Shengliang
+# Author: Lu Shengliang
 
 # Crawling starts from a paper page or search results
 # Make up similar paper search results as index page
